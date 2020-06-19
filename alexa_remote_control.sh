@@ -51,8 +51,8 @@
 
 # EMAIL and PASSWORD are set on the keys 'alexa_email' and 'alexa_password'
 # in your secrets.yaml file.
-SECRETS_YAML='/home/homeassistant/.homeassistant/secrets.yaml'
-#SECRETS_YAML='/config/secrets.yaml'
+#SECRETS_YAML='/home/homeassistant/.homeassistant/secrets.yaml'
+SECRETS_YAML='/config/secrets.yaml'
 
 #LANGUAGE="de-DE"
 #LANGUAGE="en-GB"
